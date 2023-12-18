@@ -18,9 +18,9 @@ spring:
             required: true
 
   datasource:
-    url: jdbc:mysql://localhost:3306/fa
-    username: rooot
-    password: rooot
+    url: jdbc:mysql://66.42.62.161:3305/fa
+    username: group1
+    password: Abc123456
 
   jpa:
     database-platform: org.hibernate.dialect.MySQL57InnoDBDialect
